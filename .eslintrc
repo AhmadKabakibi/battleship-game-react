@@ -1,0 +1,18 @@
+{
+  parser: "babel-eslint",
+  extends: [
+    "airbnb",
+  ],
+  plugins: [
+    "react",
+  ],
+  rules: {
+    linebreak-style: "off",
+    max-len: "off",
+    class-methods-use-this: "off",
+  },
+  env: {
+    browser: true,
+    jest: true,
+  },
+}

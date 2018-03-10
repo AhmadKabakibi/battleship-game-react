@@ -1,2 +1,6 @@
-# battleship-game-react
-Battleship game usign React
+# Battleship Board Game
+## Written with React
+
+Demo: ***
+
+Builds/tests: ***
